@@ -1,0 +1,2 @@
+gen/chrome/chrome_cleaner/mojom/parser_interface.sources_list
+gen/mojo/public/mojom/base/base.sources_list

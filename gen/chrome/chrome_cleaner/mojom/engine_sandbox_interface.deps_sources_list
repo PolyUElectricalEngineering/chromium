@@ -1,0 +1,3 @@
+gen/chrome/chrome_cleaner/mojom/engine_sandbox_interface.sources_list
+gen/components/chrome_cleaner/public/interfaces/interfaces.sources_list
+gen/mojo/public/mojom/base/base.sources_list
